@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Reflection;
 
-namespace FileEncryptor.UI.Extenxions
+namespace FileEncryptor.Extenxions
 {
     public static class EnumExtension
     {

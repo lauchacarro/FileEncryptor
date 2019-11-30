@@ -1,12 +1,12 @@
-﻿using FileEncryptor.UI.Enums;
-using FileEncryptor.UI.Extenxions;
-using FileEncryptor.UI.Models;
+﻿using FileEncryptor.Enums;
+using FileEncryptor.Extenxions;
+using FileEncryptor.Models;
 using System;
 using System.IO;
 using System.Security.Cryptography;
 using System.Windows.Forms;
 
-namespace FileEncryptor.UI
+namespace FileEncryptor
 {
     public partial class FrmDecryptFile : Form
     {

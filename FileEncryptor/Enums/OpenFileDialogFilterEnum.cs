@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace FileEncryptor.UI.Enums
+namespace FileEncryptor.Enums
 {
     public enum OpenFileDialogFilterEnum
     {

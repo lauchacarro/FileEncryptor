@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace FileEncryptor.UI.Extenxions
+namespace FileEncryptor.Extenxions
 {
     public static class CommonDialogExtension
     {

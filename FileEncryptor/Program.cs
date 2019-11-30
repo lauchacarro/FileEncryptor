@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace FileEncryptor.UI
+namespace FileEncryptor
 {
     static class Program
     {

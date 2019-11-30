@@ -1,4 +1,4 @@
-﻿namespace FileEncryptor.UI
+﻿namespace FileEncryptor
 {
     partial class FrmEncryptFile
     {

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace FileEncryptor.UI.Models
+namespace FileEncryptor.Models
 {
     [DebuggerDisplay("{DebuggerDisplay}")]
     public class FileEncryptorModel

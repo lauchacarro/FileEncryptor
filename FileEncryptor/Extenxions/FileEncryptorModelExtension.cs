@@ -1,8 +1,8 @@
-﻿using FileEncryptor.UI.Models;
+﻿using FileEncryptor.Models;
 using System;
 using System.IO;
 
-namespace FileEncryptor.UI.Extenxions
+namespace FileEncryptor.Extenxions
 {
     public static class FileEncryptorModelExtension
     {
